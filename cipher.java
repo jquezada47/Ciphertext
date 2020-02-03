@@ -1,6 +1,6 @@
 import java.util.Arrays;
 import java.util.Random;
-public class Jorge_QuezadaA1 {
+public class cipher {
 	public static void main(String[] args) {
 		Random random = new Random();
 		int rand = random.nextInt(16777215);
